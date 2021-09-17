@@ -38,3 +38,4 @@ Dart       4 mins          ███░░░░░░░░░░░░░░�
 ![](https://img.shields.io/badge/CI/CD-CodeMagic-informational?style=flat&logo=codemagic&logoColor=white&color=9400D3)
 ![](https://img.shields.io/badge/CI/CD-Jenkins-informational?style=flat&logo=jenkins&logoColor=white&color=9400D3)
 ![](https://img.shields.io/badge/CI/CD-CircleCI-informational?style=flat&logo=circleci&logoColor=white&color=9400D3)
+![](https://img.shields.io/badge/OS-Mac-informational?style=flat&logo=apple&logoColor=white&color=9400D3)
