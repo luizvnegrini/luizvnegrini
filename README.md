@@ -10,9 +10,9 @@ Let's say that the main area of expertise has always been the front end of mobil
 
 I have experience with deploying apps to stores, firebase, CI & CD configuration, use of Clean Archtecture, TDD (unit tests) and Design Patterns.
 
-<br>
+
 <!--START_SECTION:waka-->
-```text
+```
 Markdown   35 mins         ██████████████████████░░░   88.30 % 
 Dart       4 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.70 % 
 ```
