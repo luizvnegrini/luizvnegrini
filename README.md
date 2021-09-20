@@ -6,9 +6,13 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luiznegrini/)](https://www.linkedin.com/in/luiznegrini/) 
 
 ---
-Let's say that the main area of expertise has always been the front end of mobile cross platform applications, today I am 100% focused on Flutter, although I have already worked as a backend developer with .Net.
+As an independent software engineer I developed mobile apps that impacted around 1 million people in Brazil.
 
-I have experience with deploying apps to stores, firebase, CI & CD configuration, use of Clean Archtecture, TDD (unit tests) and Design Patterns.
+As technical leader I worked in a squad with 8 software engineers using Flutter, .Net Core (WebApi) and Angular (Typescript), in this team I was also Scrum Master and kept in daily contact with different stakeholders.
+
+I'm currently contributing to a product that aims to change the way Brazilians invest their money.
+
+I have experience with deploying apps to stores, firebase, CI & CD configuration, use of Clean Archtecture, TDD (unit tests), Design Patterns.
 
 
 <!--START_SECTION:waka-->
