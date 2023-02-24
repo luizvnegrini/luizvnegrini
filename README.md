@@ -18,12 +18,12 @@ I have experience with deploying apps to stores, firebase, CI & CD configuration
 <!--START_SECTION:waka-->
 
 ```text
-Dart         38 hrs 50 mins  ███████████████████████▒░   92.90 %
-JSON         1 hr 29 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 %
-Git          25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
-YAML         21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 %
-XML          17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
-JavaScript   12 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
+Dart         41 hrs 46 mins  ███████████████████████▒░   93.47 %
+JSON         1 hr 27 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.25 %
+Git          24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 %
+YAML         21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
+XML          17 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
+JavaScript   12 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
 ```
 
 <!--END_SECTION:waka-->
